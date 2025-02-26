@@ -57,6 +57,7 @@ public class Solution {
 }
 class Program {
     static void Main (string[] args) {
+        //test here
         Solution s = new Solution();
         char[][] c = new char[9][]
         {

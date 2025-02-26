@@ -19,6 +19,7 @@ int lengthOfLastWord(char* s) {
     return count;
 }
 int main() {
+    //test here
     assert(lengthOfLastWord("Hello World") == 5);
     assert(lengthOfLastWord("   fly me   to   the moon  ") == 4);
     assert(lengthOfLastWord("luffy is still joyboy") == 6);
